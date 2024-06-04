@@ -6,6 +6,10 @@ a {
     text-decoration: none;
 }
 
+/* #mailink {
+    color: crimson;
+} */
+
 .link {
     color: cornflowerblue;
     font-size: 18px;
@@ -13,5 +17,9 @@ a {
 }
 
 #title {
-    
+    color: blueviolet;
+}
+
+.link {
+    color: green;
 }
