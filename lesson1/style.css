@@ -1,5 +1,7 @@
 body {
-   background-color: bisque; 
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+   font-family: sans-serif;
+
 }
 
 a {
@@ -50,6 +52,25 @@ a {
 }
 
 .picture {
-    border-radius: 30px;
+    border-radius: 20px 50px 10px 80px;
+    width: 350px;
 /* Атрибутом задать значение ширины для картинки */
+}
+
+.inputText {
+    width: 200px;
+    height: 40px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
 }
