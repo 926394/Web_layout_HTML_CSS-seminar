@@ -16,10 +16,40 @@ a {
     line-height: 24px;
 }
 
-#title {
+/* #title {
     color: blueviolet;
 }
 
 .link {
     color: green;
+} */
+
+.title {
+    color: #eb2323;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 500;
+
+}
+
+.text {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.subtitle {
+    color: coral;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 80px;
+
+}
+
+.picture {
+    border-radius: 30px;
+/* Атрибутом задать значение ширины для картинки */
 }
